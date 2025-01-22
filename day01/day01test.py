@@ -11,6 +11,7 @@ def readFile(fileName):
     return columnOne, columnTwo
 
 columnOne, columnTwo = readFile('input.txt')
+
 print(columnOne)
 print(columnTwo)
 
